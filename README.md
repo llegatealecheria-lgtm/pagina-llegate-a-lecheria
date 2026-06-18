@@ -1,11 +1,30 @@
 # Llégate a Lechería
 
-Sitio web para descubrir las mejores playas, restaurantes y experiencias en Lechería, Venezuela.
+Sitio web oficial de **Llégate a Lechería C.A.** — Turismo, hospedaje vacacional y soluciones corporativas en Lechería, Venezuela.
 
 ## Estructura
 
-- `index.html` — Página principal
-- `styles.css` — Estilos del sitio
+Todo el sitio está contenido en un único archivo `index.html` (HTML + CSS + JavaScript embebidos), sin frameworks ni dependencias externas.
+
+### Secciones
+
+- Hero con tres rutas: Turistas, Propietarios, Empresas
+- Experiencias para turistas
+- Captación de propietarios
+- Soluciones corporativas
+- Sobre Nosotros
+- Testimonios (placeholders)
+- Preguntas Frecuentes (por audiencia)
+- Contacto corporativo
+- Política de Privacidad
+- Términos y Condiciones
+
+### SEO y verificación
+
+- Meta tags (Open Graph, Twitter Cards)
+- Schema markup (LocalBusiness, Organization, FAQPage)
+- Optimizado para Meta Business Verification
+- Información empresarial consistente en todo el sitio
 
 ## Desarrollo
 
